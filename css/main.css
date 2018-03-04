@@ -1,4 +1,8 @@
 #box-random {
-  color: brown;
+  align-items: center;
+  color: #055292;
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
   width: 100%;
 }
